@@ -7,4 +7,4 @@ Training the model takes a long time so to save time you can load the model by u
 
 The confusion matrix for obvious reason takes a long time aswell so is optional to run.
 
-The errors are just kernel interupts and one line where I forgot I deleted a dataset. You can completly ignore them.
+
